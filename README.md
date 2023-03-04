@@ -24,6 +24,8 @@ You CAN have `Server.elm` instead
 
 ```
 npx elm-webapp element hello-app
+cd hello-app
+make install
 ```
 
 This will create a skeleton file directory structure
